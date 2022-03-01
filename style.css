@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: rgb(234, 243, 243);
+}
+
+#survey_image{
+    margin: 23px 0px 11px 187px;
+}
+#survey_image img{
+    border-radius: 33px;
+    height: 386px ;
+    width: 80% ;
+
+}
+
+#form div,#survey_info{
+    border: 2px solid white;
+    margin: 11px 255px 13px 186px;
+    padding: 44px;
+    background-color: white;
+    border-radius: 33px;
+    box-shadow:  10px 13px 21px -16px black;
+    border-left: 17px solid rgb(17, 228, 17);
+}
+
+.input{
+    width: 80%;
+    border-top: none;
+    border-left: none;
+    border-right:none ;
+    outline: none;
+    border-bottom: 2px solid grey;
+    margin-top: 11px ;
+    padding:0px 0px 7px 1px;
+}
+
+#btn{
+    margin: 7px 0px 16px 194px;
+    padding: 7px 21px 7px 21px;
+    border-radius: 14px;
+    background-color: rgb(17, 228, 17);
+
+}
+
+#btn:hover{
+    background-color: greenyellow;
+}
+
